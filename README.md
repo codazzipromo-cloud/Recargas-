@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slayer Recargas | Enlaces Oficiales</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cyan-neon: #00f2ff;
+            --dark-bg: #0b0e14;
+            --card-bg: #161b22;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--dark-bg);
+            color: white;
+            font-family: 'Rajdhani', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 400px;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 3px solid var(--cyan-neon);
+            box-shadow: 0 0 20px rgba(0, 242, 255, 0.5);
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin: 0;
+            color: var(--cyan-neon);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        .tagline {
+            color: #8b949e;
+            font-size: 1rem;
+            margin-bottom: 30px;
+        }
+
+        .category {
+            text-align: left;
+            font-size: 0.8rem;
+            color: var(--cyan-neon);
+            text-transform: uppercase;
+            margin: 20px 0 10px;
+            letter-spacing: 2px;
+            font-weight: bold;
+        }
+
+        .btn {
+            display: flex;
+            align-items: center;
+            background: var(--card-bg);
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 12px;
+            text-decoration: none;
+            color: white;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            transform: scale(1.02);
+            border-color: var(--cyan-neon);
+            box-shadow: 0 0 10px rgba(0, 242, 255, 0.3);
+        }
+
+        .btn-icon {
+            font-size: 1.5rem;
+            margin-right: 15px;
+            width: 30px;
+        }
+
+        .btn-text {
+            text-align: left;
+        }
+
+        .btn-title {
+            display: block;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .btn-subtitle {
+            font-size: 0.8rem;
+            color: #8b949e;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.8rem;
+            color: #484f58;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="https://i.ibb
+        
